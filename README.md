@@ -10,4 +10,4 @@ Então, sem nada mais a adicionar, vamos ao índice.
 
 >Livro de receitas - _criado durante o curso **Introdução ao Git e ao Github** da Digital Innovation One (DIO), "finalizado" em_ **24/05/2022.**
 
->Repositório "Dio-desafio-primeiro-repositório" - _criado durante o desafio **"Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"** da Digital Innovation One (DIO), "finalizado" em_ **26/05/2022.**
+>Repositório "meus-projetos-dio-2022" - _criado durante o desafio **"Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"** da Digital Innovation One (DIO), "finalizado" em_ **26/05/2022.**
